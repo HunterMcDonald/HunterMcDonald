@@ -1,0 +1,2 @@
+- Currently trying to pick up Rust, language seems neat
+- Product @ Capital One
